@@ -1,5 +1,5 @@
-# Arquitectura Limpia
-Tareas y avances de la arquitectura limpia
+# Arquitectura Limpia BloC
+Tareas y avances de la arquitectura limpia Bloc
 
 Carlos Gilberto Jaime Rosas 16440462
 
