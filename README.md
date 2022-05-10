@@ -1,5 +1,5 @@
 # Arquitectura Limpia BloC
-Tareas y avances de la arquitectura limpia Bloc
+Ejemplo de arquitectura limpia Bloc en Dart
 
 Carlos Gilberto Jaime Rosas 16440462
 
